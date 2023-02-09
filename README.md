@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hpepper
-- 👀 I’m interested in DevOps, rust and Game development
-- 🌱 I’m currently learning k8s
+- 👀 I’m interested in rust and Game development
+- 🌱 I’m currently learning Bevy
 - 📫 How to reach me ...
 
 [Quick notes](https://github.com/hpepper/henpep-dev-tools/wiki)
